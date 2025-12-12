@@ -72,19 +72,19 @@
   - Use passenger color for visual identification
   - _Requirements: 3.3, 6.4, 6.5_
 
-- [ ] 5. Application Layer: Main Loop and Controls
-- [ ] 5.1 Initialize simulation components
+- [x] 5. Application Layer: Main Loop and Controls
+- [x] 5.1 Initialize simulation components
   - Create building, elevator, and renderer instances on page load
   - Start simulation in paused state
   - _Requirements: 7.1, 7.2_
 
-- [ ] 5.2 Implement animation loop with delta time
+- [x] 5.2 Implement animation loop with delta time
   - Use requestAnimationFrame for smooth 60fps updates
   - Calculate delta time between frames
   - Update building and elevator, then render
   - _Requirements: 6.2_
 
-- [ ] 5.3 Implement Start/Stop controls
+- [x] 5.3 Implement Start/Stop controls
   - Show Start button when paused, Stop button when running
   - Start button resumes animation loop
   - Stop button pauses animation loop and cancels animation frame
