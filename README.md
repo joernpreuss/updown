@@ -14,10 +14,10 @@ This repository demonstrates **Spec-Driven Development (SDD)** using [cc-sdd](ht
 
 ## Specification Files
 
-- `.kiro/specs/elevator-simulator/requirements.md` - What to build
-- `.kiro/specs/elevator-simulator/design.md` - How to build it
-- `.kiro/specs/elevator-simulator/research.md` - Design decisions and rationale
-- `.kiro/specs/elevator-simulator/tasks.md` - Implementation tasks (coming)
+- [requirements.md](.kiro/specs/elevator-simulator/requirements.md) - What to build
+- [design.md](.kiro/specs/elevator-simulator/design.md) - How to build it
+- [research.md](.kiro/specs/elevator-simulator/research.md) - Design decisions and rationale
+- tasks.md - Implementation tasks (coming)
 
 ## Development
 
