@@ -49,24 +49,24 @@
   - Coordinate with building to remove boarded passengers from waiting list
   - _Requirements: 4.1, 4.2, 4.3, 4.4_
 
-- [ ] 4. Presentation Layer: Renderer
-- [ ] 4.1 Set up canvas rendering foundation
+- [x] 4. Presentation Layer: Renderer
+- [x] 4.1 Set up canvas rendering foundation
   - Initialize canvas context and store references to building and elevator
   - Clear and redraw canvas each frame
   - Establish coordinate system and scaling for 5 floors
   - _Requirements: 6.1, 6.2_
 
-- [ ] 4.2 Render building structure
+- [x] 4.2 Render building structure
   - Draw floor lines and elevator shaft
   - Display floor numbers beside each level
   - _Requirements: 1.2, 1.3, 6.1_
 
-- [ ] 4.3 Render elevator cabin
+- [x] 4.3 Render elevator cabin
   - Draw elevator as distinct rectangle at current position
   - Show door state visually (open/closed)
   - _Requirements: 2.1, 6.3_
 
-- [ ] 4.4 Render passengers
+- [x] 4.4 Render passengers
   - Display waiting passengers as colored dots near their floor
   - Display passengers inside elevator distinctly from waiting passengers
   - Use passenger color for visual identification
