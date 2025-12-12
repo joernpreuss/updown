@@ -2,6 +2,8 @@
 
 Browser-based elevator simulation with Canvas visualization.
 
+**Live Demo:** https://joernpreuss.github.io/updown/
+
 ## About This Repository
 
 This repository demonstrates **Spec-Driven Development (SDD)** using [cc-sdd](https://github.com/gotalab/cc-sdd). The `.kiro/` and `.claude/commands/kiro/` directories are intentionally committed to show the SDD workflow:
