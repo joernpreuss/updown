@@ -1,0 +1,22 @@
+{
+  "feature_name": "elevator-simulator",
+  "created_at": "2025-12-12T02:30:00Z",
+  "updated_at": "2025-12-12T02:30:00Z",
+  "language": "en",
+  "phase": "initialized",
+  "approvals": {
+    "requirements": {
+      "generated": false,
+      "approved": false
+    },
+    "design": {
+      "generated": false,
+      "approved": false
+    },
+    "tasks": {
+      "generated": false,
+      "approved": false
+    }
+  },
+  "ready_for_implementation": false
+}
