@@ -22,7 +22,7 @@
   - Provide methods to get and remove waiting passengers
   - _Requirements: 1.1, 1.2, 1.3_
 
-- [ ] 2.3 Add passenger spawning logic
+- [x] 2.3 Add passenger spawning logic
   - Spawn passengers at random intervals during update cycle
   - Assign random origin and destination floors
   - Add spawned passengers to the waiting list for their origin floor
