@@ -59,9 +59,12 @@ Browser-based elevator simulation with Canvas visualization. Single elevator, 5 
 5. The Simulator shall display passengers inside the elevator distinctly from waiting passengers
 
 ### Requirement 7: Simulation Control
-**Objective:** As a user, I want to start and observe the simulation, so that I can see the elevator system in action.
+**Objective:** As a user, I want to start, stop, and observe the simulation, so that I can control and see the elevator system in action.
 
 #### Acceptance Criteria
 1. When the page loads, the Simulator shall initialize the building, elevator, and renderer
-2. When the page loads, the Simulator shall start the simulation loop automatically
-3. The Simulator shall run continuously until the browser tab is closed
+2. When the page loads, the Simulator shall start in paused state
+3. The Simulator shall display a Start button when paused
+4. The Simulator shall display a Stop button when running
+5. When the user clicks Start, the Simulator shall resume the simulation loop
+6. When the user clicks Stop, the Simulator shall pause the simulation loop
