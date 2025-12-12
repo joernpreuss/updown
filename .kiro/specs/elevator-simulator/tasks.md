@@ -29,21 +29,21 @@
   - Notify elevator of new floor requests
   - _Requirements: 3.1, 3.2, 3.3_
 
-- [ ] 3. Domain Layer: Elevator
-- [ ] 3.1 Implement elevator state and movement
+- [x] 3. Domain Layer: Elevator
+- [x] 3.1 Implement elevator state and movement
   - Track position as continuous value for smooth animation
   - Move toward target floor at constant speed using delta time
   - Stop and open doors when arriving at a floor
   - _Requirements: 2.1, 2.2, 2.3, 2.4_
 
-- [ ] 3.2 Implement FCFS request queue
+- [x] 3.2 Implement FCFS request queue
   - Maintain queue of floor requests in arrival order
   - Add new requests to end of queue
   - Process next request from front when idle
   - Remain at current floor when queue is empty
   - _Requirements: 5.1, 5.2, 5.3, 5.4_
 
-- [ ] 3.3 Implement passenger boarding and exiting
+- [x] 3.3 Implement passenger boarding and exiting
   - Board waiting passengers when doors open at their floor
   - Exit passengers when arriving at their destination floor
   - Coordinate with building to remove boarded passengers from waiting list
