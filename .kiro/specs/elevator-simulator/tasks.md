@@ -2,8 +2,8 @@
 
 ## Tasks
 
-- [ ] 1. Project Setup and HTML Structure
-- [ ] 1.1 Create the HTML page with canvas and controls
+- [x] 1. Project Setup and HTML Structure
+- [x] 1.1 Create the HTML page with canvas and controls
   - Set up index.html with canvas element and Start/Stop buttons
   - Add basic CSS for canvas container and button layout
   - Include script tags for ES6 modules
