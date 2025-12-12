@@ -10,7 +10,7 @@
   - _Requirements: 6.1, 7.3, 7.4_
 
 - [ ] 2. Domain Layer: Passenger and Building
-- [ ] 2.1 (P) Implement passenger data structure
+- [x] 2.1 (P) Implement passenger data structure
   - Create passenger with id, origin floor, destination floor, and color
   - Ensure destination differs from origin
   - Generate unique colors for visual distinction
