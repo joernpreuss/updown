@@ -16,7 +16,7 @@
   - Generate unique colors for visual distinction
   - _Requirements: 3.2_
 
-- [ ] 2.2 Implement building with floor management
+- [x] 2.2 Implement building with floor management
   - Create building class with configurable floor count (5 floors)
   - Maintain waiting passengers per floor using a map structure
   - Provide methods to get and remove waiting passengers
